@@ -6,3 +6,5 @@ This is a component conversion of the Aframe advanced material example: https://
 Added attributes
 - speed
 - tint
+
+Demo coming soon
